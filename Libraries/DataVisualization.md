@@ -1,4 +1,4 @@
-# Existing libraries for data visualization #
+# Data visualization #
 
 Caution : some libraries might be bitrotten (as of Sept. 2016)
 
