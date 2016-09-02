@@ -1,5 +1,6 @@
-# Existing libraries for data visualization #
-Some of these libraries may be bitrotten, I didn't try to install them all.
+# Data visualization #
+
+Caution : some libraries might be bitrotten (as of Sept. 2016)
 
 ## Native libraries ##
 * [Chart](http://hackage.haskell.org/package/Chart) is the most known haskell graphing library. It has various backends and support for IHaskell.
