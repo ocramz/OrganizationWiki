@@ -1,4 +1,4 @@
-# Data visualization #
+# Visualization libraries #
 
 Caution : some libraries might be bitrotten (as of Sept. 2016)
 
